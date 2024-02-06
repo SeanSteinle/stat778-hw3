@@ -1,0 +1,1 @@
+This is my submission for HW3 in STAT778 at GMU. Please run hw3.ipynb to get started!
